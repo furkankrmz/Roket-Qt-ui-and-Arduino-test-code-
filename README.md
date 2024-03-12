@@ -19,6 +19,6 @@ Roketlerin fırlatılması ve uçuş sırasında çeşitli verilerin toplanması
 
 Bu proje hala geliştirme aşamasındadır
 
-
+<img src="gui.png" height="500"> <br>
 
 
