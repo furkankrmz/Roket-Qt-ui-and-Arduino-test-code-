@@ -17,7 +17,7 @@ Roketlerin fırlatılması ve uçuş sırasında çeşitli verilerin toplanması
 
 ## Projenin Durumu
 
-Bu proje hala geliştirme aşamasındadır
+Bu proje geliştirme sürecinin tamamını içermemektedir sadece bir örnektir 
 
 <img src="gui.png" height="500"> <br>
 
